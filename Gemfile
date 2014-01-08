@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'yaml'
-
+# Specify your gem's dependencies in raml-ruby.gemspec
+gemspec
