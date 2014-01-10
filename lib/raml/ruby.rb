@@ -1,4 +1,4 @@
-require "raml/ruby/version"
+require 'raml/ruby/version'
 
 module Raml
   module Ruby
